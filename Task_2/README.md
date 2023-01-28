@@ -1,4 +1,4 @@
-# TASK 1
+# TASK 2
 Given a string as an argument, write a function that returns the first recurring character in the string or null if there is no
 recurring character. For example, given the string "acbbac", return "b". Given the string "abcdef", return null.
 
